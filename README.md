@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👨 Mateus Pereira Barboza
 
-<!--
-**Mateus987X/Mateus987X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Sistemas/Dados`**
 
-Here are some ideas to get you started:
+Sou dedicado, responsável e apaixonado por aprender — estudo é meu hobby. Tenho forte habilidade em soft skills: comunicativo, resiliente, simpático, imparcial e eficiente sob pressão. Formado em Análise e Desenvolvimento de Sistemas, estou me especializando em Análise de Dados pela Data Science Academy (360h) e já acumulo 450+ horas de estudos. Minha trajetória começou como repositor, passei por açougue e desossa até ingressar na Tropeira Alimentos, onde fui promovido três vezes em menos de 3 anos: Almoxarife, Técnico de Desenvolvimento e hoje Analista de Dados Júnior. Tenho perfil analítico, lógica apurada e pensamento disruptivo, sempre buscando agregar valor. 
+Quanto ao futuro, terminando a especialização em Análise de Dados, irei ingressar na pós-gradução em Engenharia de dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Python"
+    title="Python" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"
+/>
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" 
+/>
+<p 
+    align="left"
+    title="TOTVS/ADVPL"
+    style="
+        display: inline-block;
+        font-weight: bold;
+        font-size: 16px;
+        color: #0A1E32; 
+        padding-right: 10px;
+        margin: 0;
+    "
+>
+    💻 <strong>ADVPL/TOTVS</strong> ⚙️
+</p>
+<br/>
+<br/>
+
