@@ -48,3 +48,10 @@ Quanto ao futuro, terminando a especialização em Análise de Dados, irei ingre
 <br/>
 <br/>
 
+## 📫 Conecte-se Comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusvoid999@gmail.com)
+
+> "Dados são apenas números até que você os transforme em histórias que impulsionam ações." 
+
