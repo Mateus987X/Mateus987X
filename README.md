@@ -6,7 +6,7 @@
 Sou um profissional dedicado e apaixonado por transformar dados em insights valiosos. Minha trajetória é marcada por crescimento contínuo e capacidade de adaptação:
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 📊 Especializando-me em **Análise de Dados** pela Data Science Academy (360h)
+- 📊 Especializando-me em **Análise de Dados** pela Data Science Academy 
 - 🔄 Promovido 3x em menos de 3 anos na Tropeira Alimentos (Almoxarife → Técnico de Desenvolvimento → **Analista de Dados**)
 
 **Soft Skills:** Comunicativo, resiliente, simpático, imparcial e eficiente sob pressão  
