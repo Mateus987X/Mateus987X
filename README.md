@@ -12,11 +12,8 @@ Sou um profissional apaixonado por **dados, tecnologia e automação**, com fort
 Tenho facilidade em conectar **áreas técnicas e regras de negócio**, atuando desde a modelagem dos dados até a entrega de dashboards, automações e integrações entre sistemas.
 
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas**
-- 📊 Especializando-me em **Análise de Dados** pela **Data Science Academy**
 - 🔄 Experiência sólida com **integrações, automação de processos e sistemas corporativos**
 - 🧠 Perfil analítico, lógico e orientado à resolução de problemas
-
-> *“Dados são apenas números até que você os transforme em histórias que impulsionam ações.”*
 
 ---
 
@@ -26,7 +23,7 @@ Tenho facilidade em conectar **áreas técnicas e regras de negócio**, atuando 
 💬 Comunicação clara • 🔥 Resiliência • 😊 Simpatia • ⚖️ Imparcialidade • 🚀 Alta performance sob pressão  
 
 **Mindset:**  
-🧩 Pensamento analítico • 📐 Lógica apurada • 💡 Pensamento crítico • 🎯 Foco em soluções escaláveis
+🧩 Pensamento analítico • 📐 Lógica apurada • 💡 Pensamento crítico • ⚙️ Disruptivo
 
 ---
 
