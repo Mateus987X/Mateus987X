@@ -70,7 +70,6 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-20
 
 - 🅰️ **Angular**
 - 🧩 **Django**
-- 🌶️**Flask API**
 
 ---
 
