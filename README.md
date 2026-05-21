@@ -1,5 +1,5 @@
 # 👨‍💻 Mateus Pereira Barboza  
-**`Analista de Sistemas & Dados | BI | Automação | Integrações`**
+**`Analista de Sistemas & Dados | BI | Automação | Integrações | Desenvolvimento Web`**
 
 🚀 Transformando dados, sistemas e processos em **decisões inteligentes**
 
@@ -7,13 +7,14 @@
 
 ## 🚀 Sobre Mim
 
-Profissional focado em **dados, tecnologia e automação**, com experiência na transformação de informações em **insights estratégicos** para tomada de decisão.
+Profissional focado em **dados, tecnologia, automação e desenvolvimento web**, com experiência na transformação de informações em **insights estratégicos** para tomada de decisão.
 
-Atuo conectando **regras de negócio e tecnologia**, desde a modelagem de dados até dashboards, integrações e automações.
+Atuo conectando **regras de negócio e tecnologia**, desde a modelagem de dados até dashboards, integrações, automações e desenvolvimento de interfaces web.
 
 - 🎓 Análise e Desenvolvimento de Sistemas  
 - 🔄 Integrações e automação de processos corporativos  
-- 🧠 Perfil analítico e orientado a resolução de problemas  
+- 🌐 Desenvolvimento de aplicações web com Angular  
+- 🧠 Perfil analítico e orientado à resolução de problemas  
 
 ---
 
@@ -61,8 +62,15 @@ src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-20
 ---
 
 ### 🌐 Desenvolvimento Web
-- 🧩 **Django / Flask API**
-- 🅰️ **Angular (interfaces dinâmicas e integração com APIs)**
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"/>
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
+
+<br/><br/>
+
+- 🅰️ **Angular**
+- 🧩 **Django**
+- 🌶️**Flask API**
 
 ---
 
