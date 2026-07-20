@@ -7,7 +7,7 @@
 
 ## 🚀 Sobre Mim
 
-Profissional focado em **dados, tecnologia, automação e desenvolvimento web**, com experiência na transformação de informações em **insights estratégicos** para tomada de decisão.
+Profissional focado em **dados, automação e desenvolvimento web**, com experiência na transformação de informações em **insights estratégicos** para tomada de decisão.
 
 Atuo conectando **regras de negócio e tecnologia**, desde a modelagem de dados até dashboards, integrações, automações e desenvolvimento de interfaces web.
 
