@@ -1,18 +1,22 @@
 <div align="center">
 
+<img src="jesus-tech.gif" width="100%" alt="Jesus em uma composição que une fé, dados e tecnologia">
+
+<br>
+
 # 👋 Olá, eu sou o Mateus Pereira Barboza
 
 ### Analista de Dados & Sistemas
 
-**Business Intelligence · SQL · Power BI · Automação · Integrações · Desenvolvimento Web**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=780&lines=Business+Intelligence+%7C+SQL+%7C+Power+BI;Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es+%7C+APIs;Transformando+dados+em+decis%C3%B5es+confi%C3%A1veis" alt="Apresentação animada das especialidades">
+</a>
 
-Transformo dados, processos e necessidades de negócio em soluções **confiáveis, automatizadas e orientadas à tomada de decisão**.
+> “Tudo posso naquele que me fortalece.” — Filipenses 4:13
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Pereira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Pereira-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusvoid999@gmail.com)
-[![Localização](https://img.shields.io/badge/Belo%20Horizonte-MG-4A4A4A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![Localização](https://img.shields.io/badge/Belo%20Horizonte-MG-57606A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
@@ -22,36 +26,25 @@ Transformo dados, processos e necessidades de negócio em soluções **confiáve
 
 Sou profissional de Tecnologia da Informação com atuação voltada para **dados, Business Intelligence, sistemas corporativos, automação de processos e integração entre aplicações**.
 
-Gosto de conectar tecnologia e regras de negócio, desenvolvendo soluções que tornam os dados mais acessíveis, os processos mais eficientes e as decisões mais confiáveis.
+Gosto de conectar tecnologia e regras de negócio para tornar dados mais acessíveis, processos mais eficientes e decisões mais confiáveis.
 
-Atualmente, meus principais focos são:
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2400&pause=800&color=57606A&center=true&vCenter=true&width=760&height=42&lines=Dashboards+que+explicam+o+neg%C3%B3cio;Dados+tratados+com+qualidade;Processos+automatizados+de+ponta+a+ponta" alt="Animação sobre formas de atuação">
+</div>
 
-* 📊 Dashboards e indicadores gerenciais;
-* 🗄️ Consultas, modelagem e validação de dados;
-* 🔄 Automação de processos corporativos;
-* 🔗 Integração entre sistemas e APIs;
-* 🏢 ERP Protheus/TOTVS;
-* 🌐 Desenvolvimento de aplicações web;
-* 🐳 Deploy e gerenciamento de aplicações conteinerizadas.
-
-Também possuo conhecimentos acadêmicos em **estatística, análise exploratória e Machine Learning**, aplicados em estudos, projetos de aprendizado e demandas pontuais.
-
----
-
-## 🎯 Áreas de atuação
-
-| Área | Conhecimentos |
-| --- | --- |
-| 📊 Business Intelligence | Power BI, DAX, Power Query, indicadores e dashboards |
-| 🗄️ Dados | SQL Server, modelagem, tratamento e qualidade de dados |
-| 🔄 Automação | n8n, APIs REST, integrações e fluxos automatizados |
-| 🏢 Sistemas | Protheus/TOTVS, ADVPL, suporte e customizações |
-| 🌐 Desenvolvimento | Angular, Django, HTML, CSS e JavaScript |
-| 🐳 Infraestrutura | Docker, Portainer e deploy de aplicações |
+- 📊 Dashboards e indicadores gerenciais
+- 🗄️ Consultas, modelagem e validação de dados
+- 🔄 Automação de processos corporativos
+- 🔗 Integração entre sistemas e APIs
+- 🏢 ERP Protheus/TOTVS
+- 🌐 Desenvolvimento de aplicações web
+- 🐳 Deploy e gerenciamento de aplicações conteinerizadas
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e ferramentas
+
+<div align="center">
 
 ### Dados e Business Intelligence
 
@@ -61,46 +54,55 @@ Também possuo conhecimentos acadêmicos em **estatística, análise exploratór
 ![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Automação e integrações
+### Automação, sistemas e desenvolvimento
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![REST API](https://img.shields.io/badge/APIs%20REST-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-### Sistemas corporativos e desenvolvimento
-
 ![TOTVS](https://img.shields.io/badge/TOTVS-0066B3?style=for-the-badge)
 ![Protheus](https://img.shields.io/badge/Protheus-005CA9?style=for-the-badge)
 ![ADVPL](https://img.shields.io/badge/ADVPL-003B5C?style=for-the-badge)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Python e Machine Learning
+### Python, infraestrutura e versionamento
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Infraestrutura e versionamento
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🎯 Áreas de atuação
+
+| Área | Conhecimentos |
+| :--- | :--- |
+| 📊 **Business Intelligence** | Power BI, DAX, Power Query, indicadores e dashboards |
+| 🗄️ **Dados** | SQL Server, modelagem, tratamento e qualidade de dados |
+| 🔄 **Automação** | n8n, APIs REST, integrações e fluxos automatizados |
+| 🏢 **Sistemas** | Protheus/TOTVS, ADVPL, suporte e customizações |
+| 🌐 **Desenvolvimento** | Angular, Django, HTML, CSS e JavaScript |
+| 🐳 **Infraestrutura** | Docker, Portainer e deploy de aplicações |
 
 ---
 
 ## 🚀 Projetos em destaque
 
-* **📊 Dashboards e indicadores:** projetos de BI com Power BI, DAX, Power Query e SQL, voltados ao acompanhamento de resultados e apoio à decisão.
-* **🔄 Automações com n8n:** integração entre sistemas, processamento de informações e redução de tarefas manuais.
-* **🗄️ Dados e SQL:** extração, transformação, validação e disponibilização de informações corporativas.
-* **🏢 Integrações com Protheus:** conexão do ERP TOTVS a bancos de dados, dashboards, automações e aplicações internas.
-* **🌐 Aplicações web:** interfaces e aplicações com Angular, Django, HTML, CSS e JavaScript.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=0969DA&center=true&vCenter=true&width=760&height=42&lines=Do+dado+bruto+ao+insight;Do+processo+manual+%C3%A0+automa%C3%A7%C3%A3o;Da+necessidade+ao+software" alt="Animação sobre os projetos desenvolvidos">
+</div>
+
+- **📊 Dashboards e indicadores:** soluções de BI com Power BI, DAX, Power Query e SQL para acompanhamento de resultados.
+- **🔄 Automações com n8n:** integrações entre sistemas, consumo de APIs e redução de tarefas manuais.
+- **🗄️ Dados e SQL:** extração, transformação, validação e disponibilização de informações corporativas.
+- **🏢 Integrações com Protheus:** conexão do ERP TOTVS a bancos de dados, dashboards e aplicações internas.
+- **🌐 Aplicações web:** desenvolvimento de interfaces e aplicações com Angular e Django.
 
 ---
 
@@ -108,29 +110,42 @@ Também possuo conhecimentos acadêmicos em **estatística, análise exploratór
 
 <div align="center">
 
-<!-- Estes arquivos são atualizados diariamente pelo workflow abaixo. -->
-<img width="100%" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="Resumo do perfil de Mateus no GitHub">
+<img width="100%" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github/0-profile-details.svg" alt="Resumo claro do perfil no GitHub">
 
-<img height="180em" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github_dark/3-stats.svg" alt="Estatísticas do GitHub">
-<img height="180em" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Linguagens por repositório">
+| Estatísticas | Linguagens mais utilizadas |
+| :---: | :---: |
+| <img width="100%" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github/3-stats.svg" alt="Estatísticas do GitHub"> | <img width="100%" src="https://raw.githubusercontent.com/Mateus987X/Mateus987X/main/profile-summary-card-output/github/1-repos-per-language.svg" alt="Linguagens mais utilizadas"> |
 
 </div>
 
+> Os cartões são atualizados automaticamente pelo GitHub Actions todos os dias.
+
 ---
 
-## 📫 Contato
+## 📚 Formação e aprendizado
+
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+- 🤖 Formação Gestor de IA 2.0
+- 📊 Power BI, modelagem e análise de dados
+- 🗄️ SQL para análise de dados e Data Science
+- 🐍 Python para análise de dados
+- 🧠 Fundamentos e aplicações de Machine Learning
+- ✍️ Fundamentos de Engenharia de Prompts
+- 🎲 Fundamentos de Engenharia de Dados
+
+---
+
+## 📫 Vamos conversar?
 
 <div align="center">
 
 Estou aberto a conexões, troca de conhecimentos e projetos relacionados a **dados, automação, sistemas e tecnologia aplicada ao negócio**.
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=900&color=BF8700&center=true&vCenter=true&width=760&height=42&lines=Vamos+transformar+dados+em+decis%C3%B5es%3F;Vamos+automatizar+processos%3F;Vamos+construir+algo+com+prop%C3%B3sito%3F" alt="Convite animado para contato">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-Enviar%20e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusvoid999@gmail.com)
 
-<br>
-
-### Dados confiáveis, processos automatizados e tecnologia aplicada ao negócio.
+### ✨ Fé, dados confiáveis, processos automatizados e tecnologia com propósito.
 
 </div>
