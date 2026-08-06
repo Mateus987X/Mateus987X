@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="jesus-tech.gif" width="100%" alt="Jesus em uma composição que une fé, dados e tecnologia">
+<img src="eu.gif" width="100%" alt="Eu">
 
 <br>
 
