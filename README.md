@@ -12,8 +12,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=0969DA&center=true&vCenter=true&width=780&lines=Business+Intelligence+%7C+SQL+%7C+Power+BI;Automa%C3%A7%C3%A3o+%7C+Integra%C3%A7%C3%B5es+%7C+APIs;Transformando+dados+em+decis%C3%B5es+confi%C3%A1veis" alt="Apresentação animada das especialidades">
 </a>
 
-> “Tudo posso naquele que me fortalece.” — Filipenses 4:13
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mateus%20Pereira-0969DA?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-pereira-9434b91b3/)
 [![Gmail](https://img.shields.io/badge/Gmail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateusvoid999@gmail.com)
 [![Localização](https://img.shields.io/badge/Belo%20Horizonte-MG-57606A?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
@@ -98,11 +96,17 @@ Gosto de conectar tecnologia e regras de negócio para tornar dados mais acessí
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2400&pause=800&color=0969DA&center=true&vCenter=true&width=760&height=42&lines=Do+dado+bruto+ao+insight;Do+processo+manual+%C3%A0+automa%C3%A7%C3%A3o;Da+necessidade+ao+software" alt="Animação sobre os projetos desenvolvidos">
 </div>
 
-- **📊 Dashboards e indicadores:** soluções de BI com Power BI, DAX, Power Query e SQL para acompanhamento de resultados.
-- **🔄 Automações com n8n:** integrações entre sistemas, consumo de APIs e redução de tarefas manuais.
-- **🗄️ Dados e SQL:** extração, transformação, validação e disponibilização de informações corporativas.
-- **🏢 Integrações com Protheus:** conexão do ERP TOTVS a bancos de dados, dashboards e aplicações internas.
-- **🌐 Aplicações web:** desenvolvimento de interfaces e aplicações com Angular e Django.
+Meu portfólio percorre o ciclo completo da informação: **origem dos dados, modelagem, análise, automação e entrega em aplicações**.
+
+| Repositório | O que o projeto demonstra | Principais recursos |
+| :--- | :--- | :--- |
+| [📊 Projetos Power BI](https://github.com/Mateus987X/Projetos-Power-BI) | Dashboards aplicados a estoque, vendas em tempo real, marketing, horas improdutivas e acompanhamento de NCRs. | Power BI, DAX, Power Query, modelos semânticos, TMDL e KPIs |
+| [🗄️ SQL e Modelagem de Dados](https://github.com/Mateus987X/SQL-Modelagem-de-Dados) | Estruturas dimensionais para clientes, produtos, vendedores, notas fiscais, compras, devoluções e títulos a receber. | SQL, tabelas fato e dimensão, validação e consultas corporativas |
+| [🏢 ADVPL e Protheus](https://github.com/Mateus987X/AdvPL) | Customizações do ERP, incluindo APIs REST, MVC, relatórios e rotinas ligadas a produção, perdas, compras e financeiro. | ADVPL, Protheus/TOTVS, REST, MVC e regras de negócio |
+| [🐍 Análise de Dados com Python](https://github.com/Mateus987X/Python) | Estudos e soluções para análise de dados, Market Basket Analysis, associação, limpeza, encoding, engenharia de atributos e scripts internos. | Python, Pandas, Jupyter, pré-processamento e automação |
+| [🤖 Clusterização com K-means](https://github.com/Mateus987X/MachineLearning-Clusterizacao-Kmeans) | Aplicação que segmenta públicos por interesses para apoiar campanhas de marketing e permite exportar os resultados. | K-means, Scikit-learn, Pandas, Streamlit e modelos serializados |
+| [🅰️ Projetos Angular](https://github.com/Mateus987X/Angular) | Aplicações de estudo como rede de postagens, cadastro de freelancers e organização de equipes, com componentes e formulários reutilizáveis. | Angular, TypeScript, rotas, guards, serviços, validação e SSR |
+| [🌐 Projetos Django](https://github.com/Mateus987X/Django) | Coleção de aplicações web cobrindo SaaS, CRUD, ORM, autenticação, tempo real, geolocalização, testes e segurança. | Django, Python, MySQL, Bootstrap, WebSocket e testes automatizados |
 
 ---
 
